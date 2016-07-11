@@ -10,4 +10,4 @@
  * Bateria 9V.
  * Audífonos con micrófono integrado.
 
-![Télefono](src/telefono.JPG "Resultado")
+![Télefono](src/telefono.jpg "Resultado")
